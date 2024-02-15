@@ -1,2 +1,2 @@
-# NotificacionApp
-Front de la aplicación 
+# NotificationApp
+Front-end
